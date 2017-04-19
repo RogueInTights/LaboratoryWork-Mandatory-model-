@@ -1,0 +1,10 @@
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\bin\Debug\mandatory.exe.config
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\bin\Debug\mandatory.exe
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\bin\Debug\mandatory.pdb
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\obj\Debug\mandatory.csprojResolveAssemblyReference.cache
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\obj\Debug\mandatory.Form1.resources
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\obj\Debug\mandatory.MainForm.resources
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\obj\Debug\mandatory.Properties.Resources.resources
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\obj\Debug\mandatory.csproj.GenerateResource.Cache
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\obj\Debug\mandatory.exe
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #3\mandatory\obj\Debug\mandatory.pdb
